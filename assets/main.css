@@ -178,6 +178,10 @@ body.splash #wrapper {
 	
 }
 
+#buckets h2 {
+	width: 90%;
+}
+
 #partner-wrapper img {
 	margin-top: 30px;
 	display: block;
