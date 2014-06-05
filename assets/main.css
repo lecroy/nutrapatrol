@@ -44,7 +44,7 @@ body.splash p {
 
 #text-wrapper {
 	margin: 50px auto;
-	width: 600px;
+	width: 500px;
 	text-align: left;
 }
 
@@ -62,7 +62,7 @@ body.splash p {
 	top-margin: 50px;
 	padding-top: 60px;
 	width: 540px;
-	font-size: 1.8em;
+	font-size: 1.2em;
 	line-height: 1.2em;
 	font-weight: 500;
 	color: #333;
