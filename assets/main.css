@@ -24,7 +24,7 @@ body.splash p {
 	margin: 0 auto;
 	width: 700px;
 	text-align: center;
-	font-size: 1.4em;
+	font-size: 1.2em;
 	color: #333;
 }
 
@@ -52,10 +52,15 @@ button:hover {
 	background: #008fc5;
 }
 
-#bucket-wrapper {
+#text-wrapper {
 	margin: 50px auto;
 	width: 600px;
 	text-align: left;
+}
+
+#text-wrapper span {
+	font-weight: 500;
+	color: #000;
 }
 
 #buckets {
@@ -85,7 +90,7 @@ button:hover {
 }
 
 #buckets p {
-	font-size: 1.4em;
+	font-size: 1.2em;
 }
 
 
