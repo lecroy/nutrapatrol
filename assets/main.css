@@ -29,6 +29,21 @@ body.splash p {
 	color: #333;
 }
 
+#line {
+	width: 100%;
+	height: 1px;
+	background: #999;
+	
+}
+
+#line2 {
+	margin-top: 100px;
+	width: 100%;
+	height: 1px;
+	background: #999;
+	
+}
+
 
 .hero-body {
 	margin: 0 auto;
